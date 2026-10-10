@@ -13,4 +13,3 @@ Copy the format of the sample row and replace it with your own information.
 | 1 | Workshop Facilitator | Demo Group / SAP | Nasi Lemak | Smart Campus Food Saver |
 | 2 | Ammar Wazien | Group 7 / PSP | Nasi lemak | Instagram |
 <!-- Add your new row below this line. -->
-| 2 | Ammar Wazien | Group 7 / PSP | Nasi lemak | Instagram |
